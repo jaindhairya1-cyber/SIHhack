@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-awaaz-cream: #f8f6f0;
+  --color-awaaz-teal: #93c4a9; 
+  --color-awaaz-orange: #eaa049;
+  --color-awaaz-yellow: #f4c753;
+  --color-awaaz-surface: #ffffff;
+  --color-awaaz-line: #e5e7eb;
+  --color-awaaz-muted: #9ca3af;
+}
